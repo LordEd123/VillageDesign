@@ -2,3 +2,4 @@ Houses
 Water Well
 Fruit Garden
 Farm
+Trees
